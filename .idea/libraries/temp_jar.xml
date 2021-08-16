@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="temp-jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WSB-Projekt2-IntelliJ/out/artifacts/temp_jar/temp-jar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

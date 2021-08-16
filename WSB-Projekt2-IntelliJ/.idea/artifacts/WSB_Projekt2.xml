@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WSB-Projekt2">
+    <output-path>$PROJECT_DIR$/out/artifacts/WSB_Projekt2</output-path>
+    <root id="archive" name="WSB-Projekt2.jar">
+      <element id="module-output" name="WSB-Projekt2-IntelliJ" />
+    </root>
+  </artifact>
+</component>
